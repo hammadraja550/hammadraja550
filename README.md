@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-545EB4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
----
+
  
 ## 👨‍💻 About Me
  
@@ -28,7 +28,7 @@ I enjoy building modern websites and web applications with clean code, responsiv
 - ⚡ Focused on responsive design, performance, and clean code
 - 🤝 Open to remote opportunities, freelance projects, and collaborations
 - 📍 Based in Pakistan
----
+
  
 ## 🛠️ Technical Skills
  
@@ -60,7 +60,7 @@ I enjoy building modern websites and web applications with clean code, responsiv
 ![VS Code](https://img.shields.io/badge/VS_Code-545EB4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-545EB4?style=for-the-badge&logo=vercel&logoColor=white)
  
----
+
  
 ## 💼 Services & Expertise
  
@@ -111,7 +111,7 @@ I enjoy building modern websites and web applications with clean code, responsiv
     </td>
   </tr>
 </table>
----
+
  
 ## 🔭 Current Interests & Projects
  
@@ -120,34 +120,27 @@ I enjoy building modern websites and web applications with clean code, responsiv
 - React.js applications with Tailwind CSS
 - Full-stack MERN applications
 - WordPress Core development and open-source contributions
----
- 
-## 📊 GitHub Stats
- 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=545EB4&icon_color=545EB4&text_color=C9D1D9" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=545EB4&text_color=C9D1D9" alt="Most Used Languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=545EB4&fire=545EB4&currStreakLabel=545EB4&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=C9D1D9&line=545EB4&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity Graph" />
-</p>
----
- 
-## 🐍 Contribution Snake
- 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" alt="GitHub Contribution Snake" />
-</p>
----
+
  
 ## 📫 Contact
  
 - 💼 LinkedIn: [linkedin.com/in/hammadraja550](https://www.linkedin.com/in/hammadraja550/)
 - 🌐 Portfolio: _coming soon_
-- ✉️ Email: _coming soon_
+- ✉️ Email: hamadraja550@gmail.com
+<br>
+<hr>
 <p align="center">
-  <img src="https://img.shields.io/badge/WordPress_%26_Full--Stack_Web_Developer-545EB4?style=for-the-badge" alt="WordPress & Full-Stack Web Developer" />
+  <img src="https://img.shields.io/badge/Open_to-Remote_Opportunities-545EB4?style=flat-square" alt="Open to remote opportunities" />
+  <img src="https://img.shields.io/badge/Open_to-Freelance_Projects-545EB4?style=flat-square" alt="Open to freelance projects" />
+  <img src="https://img.shields.io/badge/Open_to-Collaborations-545EB4?style=flat-square" alt="Open to collaborations" />
+</p>
+<h3 align="center">Let's build something clean, fast, and useful together.</h3>
+ 
+<p align="center">
+  <a href="https://www.linkedin.com/in/hammadraja550/">
+    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-545EB4?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+</p>
+<p align="center">
+  <sub>WordPress & Full-Stack Web Developer &nbsp;•&nbsp; Pakistan &nbsp;•&nbsp; Thanks for stopping by ⭐</sub>
 </p>
