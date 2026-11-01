@@ -1,5 +1,3 @@
-<!-- Replace every YOUR_USERNAME below with your GitHub username -->
- 
 <h1 align="center">Hi, I'm Hammad Irfan 👋</h1>
  
 <h3 align="center">WordPress Developer | WooCommerce & Shopify | MERN Stack Developer</h3>
@@ -14,7 +12,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-545EB4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
  
 ## 👨‍💻 About Me
  
@@ -28,7 +25,6 @@ I enjoy building modern websites and web applications with clean code, responsiv
 - ⚡ Focused on responsive design, performance, and clean code
 - 🤝 Open to remote opportunities, freelance projects, and collaborations
 - 📍 Based in Pakistan
-
  
 ## 🛠️ Technical Skills
  
@@ -60,11 +56,11 @@ I enjoy building modern websites and web applications with clean code, responsiv
 ![VS Code](https://img.shields.io/badge/VS_Code-545EB4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-545EB4?style=for-the-badge&logo=vercel&logoColor=white)
  
-
+ 
  
 ## 💼 Services & Expertise
  
-<table>
+<table width="100%">
   <tr>
     <td valign="top" width="50%">
       <h4>WordPress Development</h4>
@@ -111,7 +107,6 @@ I enjoy building modern websites and web applications with clean code, responsiv
     </td>
   </tr>
 </table>
-
  
 ## 🔭 Current Interests & Projects
  
@@ -120,7 +115,6 @@ I enjoy building modern websites and web applications with clean code, responsiv
 - React.js applications with Tailwind CSS
 - Full-stack MERN applications
 - WordPress Core development and open-source contributions
-
  
 ## 📫 Contact
  
