@@ -1,62 +1,156 @@
 
+<div align="center">
+
 # Hi, I'm Hammad Irfan 👋
 
-### WordPress Developer | WooCommerce & Shopify | React.js & Node.js
+### WordPress Developer | WooCommerce & Shopify | MERN Stack Developer
 
-I'm a web developer with 5+ years of experience building and customizing websites using WordPress and WooCommerce. I'm also expanding my skills in React.js and Node.js to build modern web applications.
+Building modern websites and web applications with clean code, responsive design, and practical solutions.
 
-- 🔭 Currently working on WordPress development and custom web solutions.
-- 🌱 Learning and building projects with React.js, Node.js, and the MERN stack.
-- 💻 Interested in WordPress Core contributions and open-source projects.
-- 🛒 Experienced in WooCommerce, Shopify, Elementor, and custom WordPress development.
-- 🤝 Open to remote opportunities, internships, freelance projects, and collaboration.
-- 📍 Based in Pakistan.
+<p>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=545EB4&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
-### 🛠️ Tech Stack
+<p>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-545EB4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-<h3>Frontend</h3>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-
-<h3>Backend &amp; Database</h3>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-
-<h3>CMS &amp; E-commerce</h3>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
-<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-
-<h3>Tools &amp; Platforms</h3>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-
-### 🚀 Featured Projects
-
-- **WordPress Development** — Custom themes, plugins, and responsive websites.
-- **WooCommerce Solutions** — Online stores, custom functionality, and integrations.
-- **MERN Stack Projects** — Full-stack applications using React, Node.js, Express, and MongoDB.
-- **WordPress Core** — Exploring open-source contributions to WordPress.
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-### 🤝 Connect With Me
-
-- **GitHub:** [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- **LinkedIn:** [Your LinkedIn Profile](YOUR_LINKEDIN_URL)
-- **Portfolio:** [Visit My Portfolio](YOUR_PORTFOLIO_URL)
-- **Email:** YOUR_EMAIL
+</div>
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+## 👨‍💻 About Me
+
+I'm a web developer with 5+ years of experience in WordPress development, WooCommerce, and website customization.
+
+I also work with modern frontend technologies and am expanding my skills in full-stack development using React.js, Node.js, Express.js, and MongoDB.
+
+- 💼 Experienced in WordPress and e-commerce development.
+- 🌱 Learning and building projects with the MERN stack.
+- 🧩 Interested in WordPress Core and open-source contributions.
+- ⚡ Focused on responsive design, performance, and maintainable code.
+- 🤝 Open to remote opportunities, freelance projects, and collaboration.
+- 📍 Based in Pakistan.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5" alt="Frontend technologies" />
+</div>
+
+### Backend & Database
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=5" alt="Backend and database technologies" />
+</div>
+
+### CMS & E-commerce
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress,php,woocommerce,shopify&perline=5" alt="CMS and ecommerce technologies" />
+</div>
+
+### Tools & Platforms
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&perline=5" alt="Development tools" />
+</div>
+
+---
+
+## 🚀 What I Do
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌐 WordPress Development</h3>
+      Custom themes, plugin customization, Elementor, ACF, custom post types, and responsive business websites.
+    </td>
+    <td width="50%">
+      <h3>🛒 E-commerce Development</h3>
+      WooCommerce stores, Shopify customization, product management, payment integrations, and store improvements.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>⚛️ Frontend Development</h3>
+      React.js interfaces, Tailwind CSS styling, reusable components, and responsive user experiences.
+    </td>
+    <td width="50%">
+      <h3>🟢 Full-Stack Development</h3>
+      Learning and building full-stack applications with Node.js, Express.js, MongoDB, and React.js.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📌 Featured Projects
+
+> Replace these examples with links to your actual repositories.
+
+- **WordPress Projects** — Custom themes, websites, and WordPress functionality.
+- **WooCommerce Solutions** — E-commerce stores and custom integrations.
+- **React + Tailwind Projects** — Responsive frontend applications.
+- **MERN Stack Applications** — Full-stack projects using MongoDB, Express, React, and Node.js.
+- **WordPress Core Contributions** — Exploring and contributing to the WordPress open-source ecosystem.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+
+</div>
+
+<div align="center">
+
+  <img width="95%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution animation" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Website-Portfolio-545EB4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+
+  <br/><br/>
+
+  **Thanks for visiting my profile!**  
+  Feel free to explore my repositories and connect with me.
+
+</div>
